@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/dude/Desktop/Dev/FE/src'
+let g:netrw_dirhist_1='/home/dude/Desktop/Dev/FE'
+let g:netrw_dirhist_0='/home/dude/Desktop/Dev/FE/src'
+let g:netrw_dirhist_9='/home/dude/Desktop/Dev/FE'
+let g:netrw_dirhist_8='/home/dude/Desktop/Dev/chris_port/src/components'
+let g:netrw_dirhist_7='/home/dude/Desktop/Dev/chris_port/src'
+let g:netrw_dirhist_6='/home/dude/Desktop/Dev/chris_port'
+let g:netrw_dirhist_5='/home/dude/Desktop/Dev/FE/src/components/Display'
+let g:netrw_dirhist_4='/home/dude/Desktop/Dev/FE/src/components'
+let g:netrw_dirhist_3='/home/dude/Desktop/Dev/FE/src'
